@@ -1,5 +1,16 @@
 export const cards = [
   {
+    "id": "f2c84b9d-19a6-4d7c-b82c-92c5a7b3c917",
+    "image": "/uploads/cardsImages/cardsFront/CAN PP 16.jpeg",
+    "detailImage": "/uploads/cardsImages/cardsDetail/CAN PP 16.jpeg",
+    "title": "Canada PP",
+    "price": "$12",
+    "description": "High-quality replica of Canadian Passport with authentic fonts, holograms, and design elements.",
+    "country": "canada",
+    "detailedDescription": "This Canadian Passport (PP) replica is crafted with meticulous detail, replicating the original design with accurate fonts, holograms, watermarks, and layout elements. It closely resembles the official passport, making it suitable for training purposes, design reference, or conceptual projects that require realistic identification visuals. The replica highlights security features such as micro-text, embedded graphics, and personalized data sections, ensuring a high level of authenticity in appearance while being non-functional for travel or verification purposes. This makes it a reliable resource for professionals and enthusiasts seeking a realistic visual representation of Canadian travel documents.",
+    "category": "PP"
+  },
+  {
     "id": "94003b39-6069-4622-9351-83e747fd279c",
     "image": "/uploads/cardsImages/cardsFront/alabama DL 07.jpg",
     "detailImage": "/uploads/cardsImages/cardsDetail/alabama DL 07.png",
