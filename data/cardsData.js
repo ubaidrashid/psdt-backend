@@ -3,7 +3,7 @@ export const cards = [
     "id": "f2c84b9d-19a6-4d7c-b82c-92c5a7b3c917",
     "image": "/uploads/cardsImages/cardsFront/CAN PP 16.jpeg",
     "detailImage": "/uploads/cardsImages/cardsDetail/CAN PP 16.jpeg",
-    "title": "Canada PP",
+    "title": "Canada PP (2025 updated)",
     "price": "$12",
     "description": "High-quality replica of Canadian Passport with authentic fonts, holograms, and design elements.",
     "country": "canada",
